@@ -1,0 +1,18 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<SettingsFile xmlns="http://schemas.microsoft.com/VisualStudio/2004/01/settings" CurrentProfile="(Default)" GeneratedClassNamespace="ExchangeClient.Properties" GeneratedClassName="Settings">
+  <Profiles />
+  <Settings>
+    <Setting Name="ClientId" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">client1</Value>
+    </Setting>
+    <Setting Name="ServerEndpoint" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">tcp://127.0.0.1:4444</Value>
+    </Setting>
+    <Setting Name="ChannelEndpoint" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">tcp://127.0.0.1:5555</Value>
+    </Setting>
+    <Setting Name="RequestTimeoutMilliSeconds" Type="System.Int32" Scope="Application">
+      <Value Profile="(Default)">1000</Value>
+    </Setting>
+  </Settings>
+</SettingsFile>
